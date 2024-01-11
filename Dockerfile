@@ -1,3 +1,3 @@
-FROM node:20.9.0-alpine3.18
+FROM node:20.11-alpine3.18
 
 RUN echo hello
